@@ -77,10 +77,23 @@ Features:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hienpham0344&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hienpham0344&theme=default&hide_border=false&include_all_commits=false&count_private=false"
+    height="180"
+  />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hienpham0344&theme=default&hide_border=false&layout=compact)
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hienpham0344&theme=default&hide_border=false&include_all_commits=false&layout=compact"
+    height="180"
+  />
+</p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hienpham0344&theme=default&hide_border=false"
+  />
+</p>
 
 ---
 
