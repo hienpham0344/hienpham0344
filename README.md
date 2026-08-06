@@ -78,15 +78,8 @@ Features:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hienpham0344&theme=default&hide_border=false&include_all_commits=false&count_private=false"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hienpham0344&theme=default&hide_border=false&include_all_commits=false&layout=compact"
-    height="180"
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hienpham0344&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hienpham0344&layout=compact&theme=default" height="170"/>
 </p>
 
 <p align="center">
