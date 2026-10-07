@@ -1,93 +1,43 @@
-# Hi, I'm Hien 👋
+# 👋 Hello, I'm Hien
 
-🎓 Software Engineering Student at University of Information Technology (UIT)
+<div align="center">
 
-💻 Java Backend Developer Intern  
-Interested in building scalable backend systems with Spring Boot, database design, and software engineering practices.
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+Backend+Developer;Spring+Boot+Enthusiast)
 
-📌 Currently learning:
-- System Design
-- Redis
-- Cloud Deployment
+  ### 🚀 Java Backend Developer | 🇻🇳 Vietnam
 
-🌱 Other:
-- IELTS 6.5
-- Member of Executive Committee
+  🎓 Software Engineering Student at **University of Information Technology (UIT)**
 
-
-# 🛠️ Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-# 🚀 Featured Projects
-
-## 📚 Bookstore Management System
-
-Backend system for managing bookstore operations.
-
-**Tech Stack**
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- Spring Security + JWT
-- Role-based Authorization
-- Validation & Exception Handling
-- Swagger API Documentation
-
-Features:
-- User authentication & authorization
-- Product management
-- Order management
-- RESTful API design
-
-
-## 🌍 Travel App
-
-A travel platform supporting accommodation search and booking workflow.
-
-**Tech Stack**
-- Java
-- Spring Boot
-- PostgreSQL
-- JPA / Hibernate
-- JWT Authentication
-- Docker
-
-Features:
-- User management
-- Accommodation management
-- Booking workflow
-- Role-based access control
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hienpham0344&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hienpham0344&layout=compact&theme=default" height="170"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hienpham0344&theme=default&hide_border=false"
-  />
-</p>
+</div>
 
 ---
 
-⭐ Always learning and improving as a Backend Developer.
+## 👨‍💻 About Me
+
+I am a **Software Engineering student** interested in Backend Development and building reliable, scalable systems.
+
+- 💻 Working with **Java & Spring Boot**
+- 🔐 Interested in **Backend Architecture, Authentication & Security**
+- 🗄️ Learning more about **Database Design & System Design**
+- 🐳 Exploring **Docker, Linux & Cloud Deployment**
+- ⚡ Currently learning **Redis**
+- 🌍 English: **IELTS 6.5**
+- 🌱 Always learning and improving as a Backend Developer
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Database
+
+![
