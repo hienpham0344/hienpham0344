@@ -17,7 +17,7 @@ for path in files:
     root = ET.parse(path).getroot()
     assert root.tag == "{http://www.w3.org/2000/svg}svg", path
 
-pattern = r"https://raw\\.githubusercontent\\.com/hienpham0344/hienpham0344/([a-f0-9]{40})/(assets/profile-v2/[\\w-]+\\.svg)"
+pattern = r"https://raw\.githubusercontent\.com/hienpham0344/hienpham0344/([a-f0-9]{40})/(assets/profile-v2/[\w-]+\.svg)"
 matches = re.findall(pattern, README)
 assert matches, "No pinned SVG references"
 shas = {sha for sha, _ in matches}
