@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="124" viewBox="0 0 840 124" role="img" aria-labelledby="title desc">
+  <title id="title">Hien's developer terminal</title>
+  <desc id="desc">A glowing terminal with an animated cursor and the phrase build, learn, improve.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0.10"/>
+      <stop offset="0.5" stop-color="#00e5ff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#d946ef" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="124" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="838" height="122" rx="11" fill="none" stroke="url(#frame)" stroke-opacity="0.5"/>
+  <rect x="16" y="15" width="808" height="94" rx="8" fill="#111923" stroke="#293848"/>
+  <circle cx="36" cy="34" r="5" fill="#ff5f56"/>
+  <circle cx="54" cy="34" r="5" fill="#ffbd2e"/>
+  <circle cx="72" cy="34" r="5" fill="#27c93f"/>
+  <text x="100" y="39" fill="#8b949e" font-family="monospace" font-size="14">hien@github:~/projects</text>
+  <path d="M30 51 H810" stroke="url(#line)"/>
+  <text x="34" y="78" fill="#00e5ff" font-family="monospace" font-size="18" font-weight="bold">$</text>
+  <text x="57" y="78" fill="#e6edf3" font-family="monospace" font-size="18">while (curious) { build(); learn(); improve(); }</text>
+  <rect x="600" y="63" width="11" height="19" rx="1" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.25s" repeatCount="indefinite"/>
+  </rect>
+  <text x="34" y="99" fill="#8b949e" font-family="monospace" font-size="12">JAVA  /  SYSTEMS  /  AI AGENTS  /  OPEN SOURCE</text>
+</svg>

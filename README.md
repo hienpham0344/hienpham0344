@@ -1,143 +1,69 @@
-# 👋 Hello, I'm Hien
+<!-- Inspired by the visual style of github.com/quackii00/quackii00. All profile content is personalized. -->
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+Backend+Developer;Spring+Boot+Enthusiast)
+  <a href="https://github.com/hienpham0344">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Hien+%F0%9F%91%8B;Java+Backend+Developer;Software+Engineering+%40+UIT;Build.+Learn.+Improve." alt="Animated introduction: Hien, Java Backend Developer" />
+  </a>
 
-  ### 🚀 Java Backend Developer | 🇻🇳 Vietnam
+  <p>
+    <a href="https://github.com/hienpham0344"><img src="https://img.shields.io/badge/GitHub-hienpham0344-161B22?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub profile" /></a>
+    <a href="https://github.com/hienpham0344?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-161B22?style=flat-square&logo=github&logoColor=00E5FF" alt="Explore projects" /></a>
+    <img src="https://komarev.com/ghpvc/?username=hienpham0344&color=00E5FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+  </p>
 
-  🎓 Software Engineering Student at **University of Information Technology (UIT)**
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hienpham0344&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=D946EF&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-I am a **Software Engineering student** interested in Backend Development and building reliable, scalable systems.
-
-- 💻 Working with **Java & Spring Boot**
-- 🔐 Interested in **Backend Architecture, Authentication & Security**
-- 🗄️ Learning more about **Database Design & System Design**
-- 🐳 Exploring **Docker, Linux & Cloud Deployment**
-- ⚡ Currently learning **Redis**
-- 🌍 English: **IELTS 6.5**
-- 🌱 Always learning and improving as a Backend Developer
+```yaml
+name: Pham Hoang Gia Hien
+education: Software Engineering @ UIT (VNU-HCM)
+focus: Java Backend Development, Software Architecture, Developer Tools
+currently_exploring:
+  - AI Agents & LLM-Based Software Testing
+  - Cloud Deployment & DevOps
+  - Blockchain Applications
+working_on: [AlgoViz, AlgoLearner, SafeDeal, Test Quality Lab]
+motto: "Build. Learn. Improve."
+```
 
 ---
 
-## 🛠️ Languages and Tools
+### Tech Stack
 
 <div align="center">
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Tools & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,tailwind,postgres,redis,docker,azure,git,linux&perline=12" alt="Java, Spring, Python, TypeScript, React, Tailwind CSS, PostgreSQL, Redis, Docker, Azure, Git, Linux" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### Selected Projects
 
-### 📚 Bookstore Management System
-
-A backend system for managing bookstore operations with authentication, authorization, and RESTful APIs.
-
-**Tech Stack**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Key Features**
-
-- User authentication & authorization
-- Role-based access control
-- Product management
-- Order management
-- RESTful API design
-- Input validation & exception handling
-- Swagger API documentation
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[AlgoViz](https://github.com/hienpham0344/AlgoViz)** | Algorithm learning platform with live Java runtime tracing, code execution and auto-judging. | Java, Spring Boot, JDI, React |
+| **[AlgoLearner](https://github.com/hienpham0344/AlgoLearner)** | Programming education platform combining classroom management with online coding practice. | Spring Boot, React, TypeScript, PostgreSQL |
+| **[SafeDeal](https://github.com/hienpham0344/SafeDeal)** | In-development AI-assisted escrow concept on Avalanche, with negotiation and warranty flows. | Java, Next.js, Solidity |
+| **[Test Quality Lab](https://github.com/hienpham0344/Test-Quality-Lab)** | Work-in-progress platform for evaluating LLM-generated Python tests. | Python, FastAPI, React, PostgreSQL |
+| **[Agent-kit](https://github.com/hienpham0344/Agent-kit)** | Agent skills, specialist roles and engineering workflows for AI-assisted development. | Python, Node.js, MCP |
 
 ---
 
-### 🌍 Travel App
-
-A travel platform supporting accommodation management and booking workflows.
-
-**Tech Stack**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Key Features**
-
-- User management
-- Accommodation management
-- Booking workflow
-- JWT authentication
-- Role-based access control
-- Dockerized backend environment
-
----
-
-## 📚 Currently Learning
+### Contributions
 
 <div align="center">
 
-![System Design](https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  <!-- Generated by .github/workflows/profile-3d.yml after the workflow runs on main -->
+  <img width="100%" src="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output-3d-contrib/neon-contrib.svg" alt="3D GitHub contribution graph" />
 
-</div>
+  <!-- Generated by .github/workflows/snake.yml after the workflow runs on main -->
+  <img width="100%" src="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output/github-snake-dark.svg" alt="Animated contribution snake" />
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=hienpham0344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hien's GitHub Stats" />
-
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hienpham0344&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hienpham0344&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Build. Learn. Improve.
-
-⭐ Always learning and improving as a **Backend Developer**.
+  <img width="100%" src="./assets/terminal-loop.svg" alt="Animated terminal: build, learn, improve" />
 
 </div>
