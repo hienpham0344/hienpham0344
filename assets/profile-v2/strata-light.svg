@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 395" width="1200" height="395" role="img" aria-labelledby="title desc">
+<title id="title">Five layers of an engineering practice</title>
+<desc id="desc">An abstract geological cross-section showing foundations, backend, runtime, quality and exploration. Not a statistical chart.</desc>
+<defs><clipPath id="clip"><rect x="42" y="90" width="788" height="254" rx="8"/></clipPath>
+<pattern id="grain" width="19" height="17" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r="0.7" fill="#2D313D" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="395" rx="20" fill="#F5F0E9"/><rect x="1" y="1" width="1198" height="393" rx="19" fill="none" stroke="#D6CBC3"/>
+<text x="42" y="49" font-family="Georgia,'Times New Roman',serif" font-size="30" fill="#2D313D" font-style="italic">Strata — below the surface</text>
+<text x="1158" y="46" text-anchor="end" fill="#6A6464" font-family="monospace" font-size="12">ENGINEERING FIELD NOTES</text>
+<g clip-path="url(#clip)"><path d="M42 90Q173 82 314 92T568 90T830 90V137Q695 146 568 137T314 135T42 137Z" fill="#CCD2D9"/><path d="M42 137Q173 142 314 135T568 137T830 137" stroke="#2D313D" stroke-opacity=".18" fill="none" stroke-width="1"/><path d="M42 137Q173 129 314 139T568 137T830 137V187Q695 196 568 187T314 185T42 187Z" fill="#B5C5CC"/><path d="M42 187Q173 192 314 185T568 187T830 187" stroke="#2D313D" stroke-opacity=".18" fill="none" stroke-width="1"/><path d="M42 187Q173 179 314 189T568 187T830 187V235Q695 244 568 235T314 233T42 235Z" fill="#B3B6C8"/><path d="M42 235Q173 240 314 233T568 235T830 235" stroke="#2D313D" stroke-opacity=".18" fill="none" stroke-width="1"/><path d="M42 235Q173 227 314 237T568 235T830 235V288Q695 297 568 288T314 286T42 288Z" fill="#C8B7C1"/><path d="M42 288Q173 293 314 286T568 288T830 288" stroke="#2D313D" stroke-opacity=".18" fill="none" stroke-width="1"/><path d="M42 288Q173 280 314 290T568 288T830 288V344Q695 353 568 344T314 342T42 344Z" fill="#D2B1A8"/><path d="M42 344Q173 349 314 342T568 344T830 344" stroke="#2D313D" stroke-opacity=".18" fill="none" stroke-width="1"/><rect x="42" y="90" width="788" height="254" fill="url(#grain)"/></g>
+<rect x="42" y="90" width="788" height="254" rx="8" fill="none" stroke="#D6CBC3"/>
+<path d="M831 114H868" stroke="#D6CBC3" stroke-width="1.5"/><circle cx="833" cy="114" r="2.7" fill="#847A91"/>
+ <text x="884" y="110" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2D313D">FOUNDATIONS</text>
+ <text x="884" y="127" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6A6464">algorithms + reasoning</text><path d="M831 162H868" stroke="#D6CBC3" stroke-width="1.5"/><circle cx="833" cy="162" r="2.7" fill="#847A91"/>
+ <text x="884" y="158" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2D313D">BACKEND</text>
+ <text x="884" y="175" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6A6464">Java + API engineering</text><path d="M831 211H868" stroke="#D6CBC3" stroke-width="1.5"/><circle cx="833" cy="211" r="2.7" fill="#847A91"/>
+ <text x="884" y="207" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2D313D">RUNTIME</text>
+ <text x="884" y="224" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6A6464">AST + JDI tracing</text><path d="M831 262H868" stroke="#D6CBC3" stroke-width="1.5"/><circle cx="833" cy="262" r="2.7" fill="#847A91"/>
+ <text x="884" y="258" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2D313D">QUALITY</text>
+ <text x="884" y="275" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6A6464">LLM tests + oracles</text><path d="M831 316H868" stroke="#D6CBC3" stroke-width="1.5"/><circle cx="833" cy="316" r="2.7" fill="#847A91"/>
+ <text x="884" y="312" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2D313D">EXPLORATION</text>
+ <text x="884" y="329" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#6A6464">agents + on-chain systems</text>
+<text x="43" y="373" font-family="monospace" font-size="12" fill="#6A6464">LAYERS OF EXPERIENCE · ILLUSTRATIVE, NOT MEASURED</text>
+</svg>

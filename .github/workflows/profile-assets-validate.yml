@@ -1,0 +1,29 @@
+name: Profile assets validation
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - assets/profile-v2/**
+      - scripts/check_profile_assets.py
+      - .github/workflows/profile-assets-validate.yml
+  pull_request:
+    paths:
+      - README.md
+      - assets/profile-v2/**
+      - scripts/check_profile_assets.py
+      - .github/workflows/profile-assets-validate.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Parse and validate SVG assets and pinned references
+        run: python3 scripts/check_profile_assets.py
