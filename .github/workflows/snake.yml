@@ -16,13 +16,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Render snake SVG
+      - name: Render light and dark snake animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00E5FF
-      - name: Publish generated SVG
+            dist/github-snake.svg?palette=github-light&color_snake=#007AAB
+      - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

@@ -15,5 +15,22 @@
       "#0891b2",
       "#00e5ff"
     ]
+  },
+  {
+    "type": "normal",
+    "fileName": "neon-light.svg",
+    "backgroundColor": "#f6f8fa",
+    "foregroundColor": "#153042",
+    "strongColor": "#007aab",
+    "weakColor": "#617a87",
+    "radarColor": "#a83ebe",
+    "growingAnimation": true,
+    "contribColors": [
+      "#e7eef4",
+      "#c2e2f1",
+      "#91cee2",
+      "#42aacd",
+      "#007aab"
+    ]
   }
 ]

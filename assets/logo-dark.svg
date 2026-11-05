@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" role="img" aria-labelledby="t d">
+ <title id="t">Hien — Software Engineer</title><desc id="d">Monogram H with neon-inspired circuit paths, followed by the name HIEN</desc>
+ <defs>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#D946EF"/></linearGradient>
+ </defs>
+ <rect width="600" height="150" rx="20" fill="#0D1117" opacity="0.001"/>
+ <rect x="12" y="15" width="110" height="110" rx="25" fill="none" stroke="url(#neon)" stroke-width="3"/>
+ <path d="M43 38V101M91 38V101M43 70H91" stroke="url(#neon)" stroke-width="12" stroke-linecap="square"/>
+ <path d="M125 40H157M125 100H157" stroke="#304654" stroke-width="2"/>
+ <circle cx="153" cy="40" r="4" fill="#00E5FF"/><circle cx="153" cy="100" r="4" fill="#D946EF"/>
+ <text x="179" y="79" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="11" font-size="58" fill="#E6EDF3">HIEN</text>
+ <text x="183" y="113" font-family="monospace" font-size="17" letter-spacing="2" fill="#8B949E">BUILD · LEARN · IMPROVE</text>
+ </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="160" viewBox="0 0 1100 160" role="img" aria-labelledby="title desc">
+<title id="title">Developer command terminal</title><desc id="desc">Animated terminal showing an engineering build pipeline</desc>
+<style>
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes line{0%{stroke-dashoffset:220}100%{stroke-dashoffset:0}}
+.cursor{animation:blink 1.1s steps(1,end) infinite}
+.line{stroke-dasharray:220;animation:line 4s ease-in-out infinite alternate}
+@media(prefers-reduced-motion:reduce){.cursor,.line{animation:none}}
+</style>
+<rect x="0" y="0" width="1100" height="160" rx="14" fill="#0D1117"/>
+<rect x="1" y="1" width="1098" height="158" rx="13" fill="none" stroke="#25394D" stroke-width="2"/>
+<rect x="15" y="15" width="1070" height="130" rx="9" fill="#111B27" stroke="#25394D"/>
+<circle cx="38" cy="34" r="6" fill="#FF5F56"/><circle cx="58" cy="34" r="6" fill="#FFBD2E"/><circle cx="78" cy="34" r="6" fill="#27C93F"/>
+<text x="103" y="39" font-family="monospace" font-size="15" fill="#8B949E">hien@github:~/engineering</text>
+<path d="M30 51H1070" stroke="#25394D"/>
+<text x="35" y="85" font-family="monospace" font-size="19" fill="#00E5FF">$</text>
+<text x="63" y="85" font-family="monospace" font-size="19" fill="#E6EDF3">build --clean --test --learn --repeat</text>
+<rect class="cursor" x="504" y="69" width="11" height="20" fill="#00E5FF"/>
+<text x="35" y="121" font-family="monospace" font-size="14" fill="#8B949E">[ architecture ]  ━━━━━━━━    [ development ]  ━━━━━━━━    [ quality ]  ━━━━━━━━    [ ship ]</text>
+<path class="line" d="M35 137H1060" fill="none" stroke="#00E5FF" opacity=".6" stroke-width="2"/>
+</svg>
