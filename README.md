@@ -1,69 +1,112 @@
-<!-- Inspired by the visual style of github.com/quackii00/quackii00. All profile content is personalized. -->
+<!-- A custom GitHub profile, built around responsive SVG artwork and verified public projects. -->
 
 <div align="center">
 
-  <a href="https://github.com/hienpham0344">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Hien+%F0%9F%91%8B;Java+Backend+Developer;Software+Engineering+%40+UIT;Build.+Learn.+Improve." alt="Animated introduction: Hien, Java Backend Developer" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img alt="Pham Hoang Gia Hien — Java Backend, AI Systems and Software Engineering" src="./assets/profile-hero-light.svg" width="100%">
+</picture>
 
-  <p>
-    <a href="https://github.com/hienpham0344"><img src="https://img.shields.io/badge/GitHub-hienpham0344-161B22?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub profile" /></a>
-    <a href="https://github.com/hienpham0344?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-161B22?style=flat-square&logo=github&logoColor=00E5FF" alt="Explore projects" /></a>
-    <img src="https://komarev.com/ghpvc/?username=hienpham0344&color=00E5FF&style=flat-square&label=Profile+Views" alt="Profile views" />
-  </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
+  <img alt="HIEN — Build, Learn, Improve" src="./assets/logo-light.svg" width="330">
+</picture>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hienpham0344&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=D946EF&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+<p><strong>Software Engineering @ UIT · Java Backend · Building reliable systems & developer tools</strong></p>
+
+<a href="https://github.com/hienpham0344?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explore GitHub repositories"></a>
+<a href="https://github.com/hienpham0344/AlgoViz"><img src="https://img.shields.io/badge/Featured-AlgoViz-111827?style=for-the-badge&logo=openjdk&logoColor=00E5FF" alt="AlgoViz project"></a>
+<img src="https://komarev.com/ghpvc/?username=hienpham0344&label=PROFILE+VISITS&color=00B8D9&style=for-the-badge" alt="Profile views">
 
 </div>
 
 ---
 
-### About
+### `01 / ABOUT THE BUILDER`
 
 ```yaml
 name: Pham Hoang Gia Hien
-education: Software Engineering @ UIT (VNU-HCM)
-focus: Java Backend Development, Software Architecture, Developer Tools
-currently_exploring:
-  - AI Agents & LLM-Based Software Testing
-  - Cloud Deployment & DevOps
-  - Blockchain Applications
-working_on: [AlgoViz, AlgoLearner, SafeDeal, Test Quality Lab]
-motto: "Build. Learn. Improve."
+university: University of Information Technology (VNU-HCM)
+major: Software Engineering
+core: [Java, Spring Boot, Backend Architecture, PostgreSQL]
+interests: [AI Agents, Software Testing Research, DevOps, Developer Tools]
+currently_building:
+  - AlgoViz — algorithm learning and Java runtime tracing
+  - Test Quality Lab — LLM-generated test evaluation
+  - SafeDeal — AI-assisted escrow prototype on Avalanche
+principle: "Build. Learn. Improve."
 ```
 
----
-
-### Tech Stack
+### `02 / ENGINEERING TOOLKIT`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,tailwind,postgres,redis,docker,azure,git,linux&perline=12" alt="Java, Spring, Python, TypeScript, React, Tailwind CSS, PostgreSQL, Redis, Docker, Azure, Git, Linux" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,tailwind,postgres,redis,docker,azure,git,linux&perline=12" alt="Java, Spring Boot, Python, TypeScript, React, Tailwind CSS, PostgreSQL, Redis, Docker, Azure, Git, and Linux" />
+
+<sub>Backend first. Comfortable working across the stack.</sub>
+
+</div>
+
+### `03 / SELECTED BUILDS`
+
+| Project | Purpose | Main technologies |
+| :--- | :--- | :--- |
+| **[AlgoViz](https://github.com/hienpham0344/AlgoViz)** | Explore algorithms using live Java runtime tracing and an online judge. | `Java` `Spring Boot` `JDI` `React` |
+| **[AlgoLearner](https://github.com/hienpham0344/AlgoLearner)** | Classroom learning and LeetCode-style programming practice platform. | `Java` `PostgreSQL` `TypeScript` |
+| **[Agent-kit](https://github.com/hienpham0344/Agent-kit)** | Engineering workflows, specialist agents and reusable AI skills. | `Python` `Node.js` `MCP` |
+| **[Test Quality Lab](https://github.com/hienpham0344/Test-Quality-Lab)** | Work-in-progress platform for evaluating LLM-generated test suites. | `Python` `FastAPI` `React` |
+| **[SafeDeal](https://github.com/hienpham0344/SafeDeal)** | In-development AI-assisted escrow application on Avalanche. | `Spring Boot` `Next.js` `Solidity` |
+
+### `04 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hienpham0344&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hienpham0344&amp;show_icons=true&amp;theme=default&amp;hide_border=true">
+  <img alt="GitHub stats for hienpham0344" src="https://github-readme-stats.vercel.app/api?username=hienpham0344&amp;show_icons=true&amp;hide_border=true" width="480">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hienpham0344&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hienpham0344&amp;layout=compact&amp;theme=default&amp;hide_border=true">
+  <img alt="Most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hienpham0344&amp;layout=compact&amp;hide_border=true" width="360">
+</picture>
+
+</div>
+
+### `05 / CONTRIBUTION UNIVERSE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output-3d-contrib/neon-contrib.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output-3d-contrib/neon-light.svg">
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output-3d-contrib/neon-contrib.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output/github-snake-dark.svg?v=20261106-2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output/github-snake.svg?v=20261106-2">
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output/github-snake-dark.svg?v=20261106-2" width="100%">
+</picture>
+
+<sub>Graphs are generated automatically using GitHub Actions. The activity shown reflects GitHub's available contribution data.</sub>
+
 </div>
 
 ---
 
-### Selected Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[AlgoViz](https://github.com/hienpham0344/AlgoViz)** | Algorithm learning platform with live Java runtime tracing, code execution and auto-judging. | Java, Spring Boot, JDI, React |
-| **[AlgoLearner](https://github.com/hienpham0344/AlgoLearner)** | Programming education platform combining classroom management with online coding practice. | Spring Boot, React, TypeScript, PostgreSQL |
-| **[SafeDeal](https://github.com/hienpham0344/SafeDeal)** | In-development AI-assisted escrow concept on Avalanche, with negotiation and warranty flows. | Java, Next.js, Solidity |
-| **[Test Quality Lab](https://github.com/hienpham0344/Test-Quality-Lab)** | Work-in-progress platform for evaluating LLM-generated Python tests. | Python, FastAPI, React, PostgreSQL |
-| **[Agent-kit](https://github.com/hienpham0344/Agent-kit)** | Agent skills, specialist roles and engineering workflows for AI-assisted development. | Python, Node.js, MCP |
-
----
-
-### Contributions
-
 <div align="center">
 
-  <!-- Generated by .github/workflows/profile-3d.yml after the workflow runs on main -->
-  <img width="100%" src="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output-3d-contrib/neon-contrib.svg" alt="3D GitHub contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+  <img alt="Developer command terminal — build, test, learn, repeat" src="./assets/terminal-light.svg" width="100%">
+</picture>
 
-  <!-- Generated by .github/workflows/snake.yml after the workflow runs on main -->
-  <img width="100%" src="https://raw.githubusercontent.com/hienpham0344/hienpham0344/output/github-snake-dark.svg" alt="Animated contribution snake" />
-
-  <img width="100%" src="./assets/terminal-loop.svg" alt="Animated terminal: build, learn, improve" />
+<sub>Thanks for stopping by. Keep making things that matter.</sub>
 
 </div>
