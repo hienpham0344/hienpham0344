@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-labelledby="title desc">
+<title id="title">Pham Hoang Gia Hien — software engineering</title>
+<desc id="desc">An atmospheric editorial aurora with subtle moving ribbons and a personal signature.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#090F18"/><stop offset=".55" stop-color="#111E29"/><stop offset="1" stop-color="#090F18"/>
+  </linearGradient>
+  <linearGradient id="veil" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#55E0D4" stop-opacity="0"/><stop offset=".28" stop-color="#55E0D4" stop-opacity=".7"/><stop offset=".6" stop-color="#A88CF5" stop-opacity=".75"/><stop offset="1" stop-color="#F2A7BE" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="veil2" x1="1" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F2A7BE" stop-opacity="0"/><stop offset=".4" stop-color="#F2A7BE" stop-opacity=".5"/><stop offset=".8" stop-color="#55E0D4" stop-opacity=".45"/><stop offset="1" stop-color="#55E0D4" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blur" x="-30%" y="-90%" width="160%" height="280%"><feGaussianBlur stdDeviation="17"/></filter>
+  <clipPath id="clip"><rect x="1" y="1" width="1198" height="408" rx="22"/></clipPath>
+</defs>
+<style>
+  @keyframes float1 { 0%,100% { transform:translate(-25px,-9px) } 50% { transform:translate(30px,11px) } }
+  @keyframes float2 { 0%,100% { transform:translate(15px,10px) } 50% { transform:translate(-25px,-15px) } }
+  @keyframes pulse { 0%,100% { opacity:.3 } 50% { opacity:.7 } }
+  .ribbon1 { animation:float1 22s ease-in-out infinite }
+  .ribbon2 { animation:float2 28s ease-in-out infinite }
+  .star { animation:pulse 4s ease-in-out infinite }
+  @media (prefers-reduced-motion:reduce) { .ribbon1,.ribbon2,.star { animation:none } }
+</style>
+<rect width="1200" height="410" rx="23" fill="url(#sky)"/>
+<g clip-path="url(#clip)">
+  <g filter="url(#blur)">
+    <path class="ribbon1" d="M-100 145C124 -8 284 192 479 81S829 87 1290 120L1290 226C858 155 681 244 464 171S149 242-100 266Z" fill="url(#veil)" opacity=".78"/>
+    <path class="ribbon2" d="M-100 228C166 303 344 79 560 153S928 68 1288 112L1288 201C927 218 808 160 604 236S205 206-100 301Z" fill="url(#veil2)" opacity=".8"/>
+  </g>
+  <path d="M0 310L120 290 236 309 337 282 461 301 620 276 737 302 854 277 973 298 1107 268 1200 289V410H0Z" fill="#090F18" opacity=".50"/>
+  <path d="M0 332L175 311 316 338 473 319 595 341 758 310 915 333 1065 307 1200 329V410H0Z" fill="#090F18" opacity=".68"/>
+  <g fill="#A6B3BD" opacity=".55">
+    <circle class="star" cx="148" cy="107" r="1.8"/><circle class="star" cx="321" cy="54" r="1.5"/>
+    <circle class="star" cx="787" cy="45" r="1.4"/><circle class="star" cx="1038" cy="113" r="1.9"/>
+  </g>
+</g>
+<rect x="1" y="1" width="1198" height="408" rx="22" stroke="#2D3946" fill="none"/>
+<text x="72" y="91" fill="#A6B3BD" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">PERSONAL NOTES  /  SOFTWARE AND SYSTEMS</text>
+<text x="67" y="248" fill="#F1F2F3" font-family="Georgia,'Times New Roman',serif" font-size="76" font-style="italic">Pham Hoang Gia Hien</text>
+<path d="M73 270H245" stroke="#55E0D4" stroke-width="2" opacity=".85"/>
+<text x="72" y="310" fill="#F1F2F3" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="1.5">Building the things I wish existed.</text>
+<text x="73" y="377" fill="#A6B3BD" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.5">JAVA BACKEND  ·  DEVELOPER TOOLS  ·  RESEARCH  ·  AI</text>
+</svg>
